@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LabBooks</string>
+
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">Beginning Android 2</string>
+    <string name="category">Computers</string>
+    <string name="price">120 EG</string>
+    <string name="author">Mark Murphy</string>
+
+
+    <string name="search">BUSCAR</string>
+    <string name="hint">Ingrese Libro </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Verifica tu conexion</string>
+    <string name="NO_RESULT">No hubo resultados</string>
+</resources>
